@@ -1,2 +1,2 @@
-import SiteShell from "@/components/SiteShell";
+import SiteShell from "../../components/SiteShell";
 export default function Page() { return <SiteShell currentPage="My Stable" />; }
